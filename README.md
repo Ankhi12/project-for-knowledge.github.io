@@ -8,7 +8,7 @@ The aim of this project is to create a **responsive** landing page with differen
 2. Padding
 3. Why UI is breaking or overflowing
 4. Media Queries for responsivness for various screens.
-5. Creating Hamburger Menum and writing JS to open and close it.
+5. Creating Hamburger Menu and writing JS to open and close it.
 
 Images - Shout out to undraw website
 Icons - Shout out to simple-icons
